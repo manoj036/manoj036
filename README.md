@@ -10,7 +10,7 @@ Aside from work, I am currently working on flutter projects.
 
 <!-- Articles -->
 ### 📝 Articles I have written
-- [Making of Your Mercari History using Lottie Animations](https://engineering.mercari.com/en/blog/entry/20231222-making-of-your-mercari-history/)
+- [Making of Your Mercari History using interactive Lottie Animations](https://engineering.mercari.com/en/blog/entry/20231222-making-of-your-mercari-history/)
 
 <!-- Presentations -->
 ### 📊 Presentations I have given
