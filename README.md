@@ -14,6 +14,6 @@ Aside from work, I am currently working on flutter projects.
 
 <!-- Presentations -->
 ### 📊 Presentations I have given
-- [Maintaining great iOS build speeds on local and CI environments with Bazel](https://speakerdeck.com/manoj036/maintaining-great-ios-build-speeds-on-local-and-ci-environments-with-bazel)
-- [Mercari India Dev Meetup #02: Mobile](https://about.in.mercari.com/news/mercari-india-dev-meetup-02-mobile/)
-- [Updates to UICollectionView in iOS14, in WWDC Recap by Mercari](https://speakerdeck.com/manoj036/updates-to-collectionview-in-ios14)
+- [Maintaining great iOS build speeds on local and CI environments with Bazel, organized by Swift Bangalore](https://speakerdeck.com/manoj036/maintaining-great-ios-build-speeds-on-local-and-ci-environments-with-bazel)
+- [Mercari India Dev Meetup #02: Mobile, in a Mercari India hiring event](https://about.in.mercari.com/news/mercari-india-dev-meetup-02-mobile/)
+- [Updates to UICollectionView in iOS14, in a WWDC Recap event by Mercari](https://speakerdeck.com/manoj036/updates-to-collectionview-in-ios14)
