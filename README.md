@@ -10,6 +10,7 @@ Aside from work, I am currently working on flutter projects.
 
 <!-- Articles -->
 ### 📝 Articles I have written
+- [How We Deliver Mobile App Updates Faster](https://engineering.mercari.com/en/blog/entry/20251022-how-we-deliver-mobile-app-updates-faster/)
 - [Making of Your Mercari History using interactive Lottie Animations](https://engineering.mercari.com/en/blog/entry/20231222-making-of-your-mercari-history/)
 
 <!-- Presentations -->
